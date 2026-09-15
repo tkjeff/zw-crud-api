@@ -1,0 +1,6 @@
+node_modules/
+.env
+src/generated/prisma/
+schema-engine.exe
+schema-engine.exe.gz
+windows-ca-bundle.pem
